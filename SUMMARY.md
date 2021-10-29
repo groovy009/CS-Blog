@@ -26,3 +26,5 @@
   * [Mod 26](ctf/picoctf/mod-26.md)
   * [Wave a Flag](ctf/picoctf/wave-a-flag.md)
   * [Nice Netcat](ctf/picoctf/nice-netcat.md)
+  * [Mind your Ps and Qs](ctf/picoctf/mind-your-ps-and-qs.md)
+  * [Static ain't always noise](ctf/picoctf/static-aint-always-noise.md)
