@@ -18,3 +18,11 @@
   * [Bandit 10](overthewire/bandit/bandit-10.md)
   * [Bandit 11](overthewire/bandit/bandit-11.md)
   * [Bandit 12](overthewire/bandit/bandit-12.md)
+
+## CTF
+
+* [picoCTF](ctf/picoctf/README.md)
+  * [Obedient Cat](ctf/picoctf/obedient-cat.md)
+  * [Mod 26](ctf/picoctf/mod-26.md)
+  * [Wave a Flag](ctf/picoctf/wave-a-flag.md)
+  * [Nice Netcat](ctf/picoctf/nice-netcat.md)
