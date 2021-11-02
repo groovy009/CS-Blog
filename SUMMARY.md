@@ -28,3 +28,4 @@
   * [Nice Netcat](ctf/picoctf/nice-netcat.md)
   * [Mind your Ps and Qs](ctf/picoctf/mind-your-ps-and-qs.md)
   * [Static ain't always noise](ctf/picoctf/static-aint-always-noise.md)
+  * [Matryoshka Doll](ctf/picoctf/matryoshka-doll.md)
