@@ -1,3 +1,7 @@
+---
+description: 30 points
+---
+
 # Magikarp Ground Mission
 
 First I had to ssh into a picoCTF container as the user ctf-player.
