@@ -30,3 +30,4 @@
   * [Static ain't always noise](ctf/picoctf/static-aint-always-noise.md)
   * [Matryoshka Doll](ctf/picoctf/matryoshka-doll.md)
   * [crackme-py](ctf/picoctf/crackme-py.md)
+  * [Magikarp Ground Mission](ctf/picoctf/magikarp-ground-mission.md)
