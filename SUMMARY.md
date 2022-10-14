@@ -46,3 +46,4 @@
 * [Splunk certification](splunk/splunk-certification/README.md)
   * [What is Splunk](splunk/splunk-certification/what-is-splunk.md)
   * [Intro to Splunk](splunk/splunk-certification/intro-to-splunk.md)
+  * [Using Fields](splunk/splunk-certification/using-fields.md)
