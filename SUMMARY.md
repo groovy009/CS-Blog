@@ -31,3 +31,8 @@
   * [Matryoshka Doll](ctf/picoctf/matryoshka-doll.md)
   * [crackme-py](ctf/picoctf/crackme-py.md)
   * [Magikarp Ground Mission](ctf/picoctf/magikarp-ground-mission.md)
+
+## TryHackMe <a href="#TryHackMe" id="TryHackMe"></a>
+
+* [Advent of Cyber 2021](TryHackMe/advent-of-cyber-2021/README.md)
+  * [Save The Gifts](TryHackMe/advent-of-cyber-2021/save-the-gifts.md)
