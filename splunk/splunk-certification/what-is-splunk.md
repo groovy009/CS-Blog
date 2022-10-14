@@ -13,3 +13,5 @@ Reports: where search results are stored; can be used to power dashboard panels&
 Data Models: structured datasets that allow users to visualize data and pivot without having to make custom searches&#x20;
 
 Alerts: Users can make custom triggers so they are notified when certain events occur.
+
+<figure><img src="../../.gitbook/assets/what is splunk certificate.png" alt=""><figcaption></figcaption></figure>

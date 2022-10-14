@@ -6,3 +6,4 @@ description: >-
 
 # Splunk certification
 
+I will be posting my notes on the Splunk learning modules as I complete them.
