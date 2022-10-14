@@ -17,7 +17,6 @@
   * [Bandit 9](overthewire/bandit/bandit-9.md)
   * [Bandit 10](overthewire/bandit/bandit-10.md)
   * [Bandit 11](overthewire/bandit/bandit-11.md)
-  * [Bandit 12](overthewire/bandit/bandit-12.md)
 
 ## CTF
 
@@ -25,11 +24,6 @@
   * [Obedient Cat](ctf/picoctf/obedient-cat.md)
   * [Mod 26](ctf/picoctf/mod-26.md)
   * [Wave a Flag](ctf/picoctf/wave-a-flag.md)
-  * [Nice Netcat](ctf/picoctf/nice-netcat.md)
-  * [Mind your Ps and Qs](ctf/picoctf/mind-your-ps-and-qs.md)
-  * [Static ain't always noise](ctf/picoctf/static-aint-always-noise.md)
-  * [Matryoshka Doll](ctf/picoctf/matryoshka-doll.md)
-  * [crackme-py](ctf/picoctf/crackme-py.md)
   * [Magikarp Ground Mission](ctf/picoctf/magikarp-ground-mission.md)
 
 ## TryHackMe <a href="#TryHackMe" id="TryHackMe"></a>
