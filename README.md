@@ -1,3 +1,3 @@
 # About
 
-This website is used to document my journey through computer science and cyber security.&#x20;
+This website is used to document the cyber security side of my computer science journey.
