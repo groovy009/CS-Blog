@@ -36,3 +36,12 @@
 
 * [Advent of Cyber 2021](TryHackMe/advent-of-cyber-2021/README.md)
   * [Save The Gifts](TryHackMe/advent-of-cyber-2021/save-the-gifts.md)
+
+## Secure Coding
+
+* [Secure Code Warrior](secure-coding/secure-code-warrior.md)
+
+## Splunk
+
+* [Splunk certification](splunk/splunk-certification/README.md)
+  * [What is Splunk](splunk/splunk-certification/what-is-splunk.md)
