@@ -9,3 +9,5 @@ description: >-
 Notes are attached as a pdf file to avoid taking up the entire page and then some.
 
 {% file src="../../.gitbook/assets/Splunk course notes.pdf" %}
+
+<figure><img src="../../.gitbook/assets/intro to splunk.png" alt=""><figcaption></figcaption></figure>
