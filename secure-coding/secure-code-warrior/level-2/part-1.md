@@ -16,3 +16,8 @@ For example, you could become a super user on the LDAP servers by simply inputti
 
 ## The solution
 
+<figure><img src="../../../.gitbook/assets/Screenshot (69).png" alt=""><figcaption></figcaption></figure>
+
+We must now pick the correct solution for the vulnerable code.
+
+The correct solution must ensure that both the superUserLogin and the superUserPassword are valid.
