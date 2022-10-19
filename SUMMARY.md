@@ -33,7 +33,11 @@
 
 ## Secure Coding
 
-* [Secure Code Warrior](secure-coding/secure-code-warrior.md)
+* [Secure Code Warrior](secure-coding/secure-code-warrior/README.md)
+  * [Level 1](secure-coding/secure-code-warrior/level-1/README.md)
+    * [Part 1](secure-coding/secure-code-warrior/level-1/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-1/part-2.md)
+    * [Part 3](secure-coding/secure-code-warrior/level-1/part-3.md)
 
 ## Splunk
 
