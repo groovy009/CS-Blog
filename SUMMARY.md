@@ -40,6 +40,11 @@
     * [Part 3](secure-coding/secure-code-warrior/level-1/part-3.md)
   * [Level 2](secure-coding/secure-code-warrior/level-2/README.md)
     * [Part 1](secure-coding/secure-code-warrior/level-2/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-2/part-2.md)
+    * [Part 3](secure-coding/secure-code-warrior/level-2/part-3.md)
+  * [Level 3](secure-coding/secure-code-warrior/level-3/README.md)
+    * [Part 1](secure-coding/secure-code-warrior/level-3/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-3/part-2.md)
 
 ## Splunk
 

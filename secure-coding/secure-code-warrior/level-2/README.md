@@ -1,5 +1,7 @@
 ---
-description: 'Injection flaws, , denial of service (Max points: 600) (Points earned: )'
+description: >-
+  Injection flaws, Insecure randomness, denial of service (Max points: 600)
+  (Points earned: )
 ---
 
 # Level 2
