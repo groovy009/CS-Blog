@@ -1,3 +1,7 @@
+---
+description: Welcome!
+---
+
 # About
 
-This website is used to document the cyber security side of my computer science journey.
+This website is used to document my computer science journey.
