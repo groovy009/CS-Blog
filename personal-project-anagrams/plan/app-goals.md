@@ -16,3 +16,5 @@ As well as having an extensive bank of possible letter combinations the user can
 
 It would be nice to be able to add friends  to see their scores or challenge them to see who gets the higher score.
 
+Could have a sentence mode?
+
