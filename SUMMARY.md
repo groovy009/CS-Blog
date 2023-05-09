@@ -53,3 +53,9 @@
   * [What is Splunk](splunk/splunk-certification/what-is-splunk.md)
   * [Intro to Splunk](splunk/splunk-certification/intro-to-splunk.md)
   * [Using Fields](splunk/splunk-certification/using-fields.md)
+
+## Personal Project: Anagrams
+
+* [Plan](personal-project-anagrams/plan/README.md)
+  * [What is needed](personal-project-anagrams/plan/what-is-needed.md)
+  * [What I need to do](personal-project-anagrams/plan/what-i-need-to-do.md)
