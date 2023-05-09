@@ -58,3 +58,4 @@
 
 * [Plan](personal-project-anagrams/plan/README.md)
   * [What I need to do](personal-project-anagrams/plan/what-i-need-to-do.md)
+  * [App Goals](personal-project-anagrams/plan/app-goals.md)
