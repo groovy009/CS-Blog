@@ -57,5 +57,4 @@
 ## Personal Project: Anagrams
 
 * [Plan](personal-project-anagrams/plan/README.md)
-  * [What is needed](personal-project-anagrams/plan/what-is-needed.md)
   * [What I need to do](personal-project-anagrams/plan/what-i-need-to-do.md)
