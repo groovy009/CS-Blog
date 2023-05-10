@@ -22,13 +22,11 @@ My name is Tyler Herrman, and this website is used to document my computer scien
 
 I am a senior standing CS major at Clemson University who has a passion to create. Whether that be software, music, movies, etc.
 
-My GitHub: [https://github.com/groovy009](https://github.com/groovy009)
-
-My short films/movies:&#x20;
+## My short films/movies:
 
 {% embed url="https://www.youtube.com/watch?t=5s&v=yXC7wDeIuVM" %}
 
-My music/bands:
+## My music/bands:
 
 {% embed url="https://soundcloud.com/deleters" %}
 
