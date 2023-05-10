@@ -9,6 +9,7 @@
   * [App Goals](personal-project-anagrams/plan/app-goals.md)
 * [Journey](personal-project-anagrams/journey/README.md)
   * [Day 1: The first hurdle](personal-project-anagrams/journey/day-1-the-first-hurdle.md)
+  * [Day 2](personal-project-anagrams/journey/day-2.md)
 
 ## Secure Coding
 
