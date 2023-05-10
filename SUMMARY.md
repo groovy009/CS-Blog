@@ -2,6 +2,30 @@
 
 * [About Me](README.md)
 
+## Personal Project: Anagrams
+
+* [Plan](personal-project-anagrams/plan/README.md)
+  * [What I need to do](personal-project-anagrams/plan/what-i-need-to-do.md)
+  * [App Goals](personal-project-anagrams/plan/app-goals.md)
+* [Journey](personal-project-anagrams/journey/README.md)
+  * [Day 1](personal-project-anagrams/journey/day-1.md)
+
+## Secure Coding
+
+* [Secure Code Warrior](secure-coding/secure-code-warrior.md)
+  * [Level 1](secure-coding/secure-code-warrior/level-1/README.md)
+    * [Part 1](secure-coding/secure-code-warrior/level-1/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-1/part-2.md)
+    * [Part 3](secure-coding/secure-code-warrior/level-1/part-3.md)
+  * [Level 2](secure-coding/secure-code-warrior/level-2/README.md)
+    * [Part 1](secure-coding/secure-code-warrior/level-2/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-2/part-2.md)
+    * [Part 3](secure-coding/secure-code-warrior/level-2/part-3.md)
+  * [Level 3](secure-coding/secure-code-warrior/level-3/README.md)
+    * [Part 1](secure-coding/secure-code-warrior/level-3/part-1.md)
+    * [Part 2](secure-coding/secure-code-warrior/level-3/part-2.md)
+    * [Part 3](secure-coding/secure-code-warrior/level-3/part-3.md)
+
 ## OverTheWire
 
 * [Bandit](overthewire/bandit/README.md)
@@ -26,38 +50,9 @@
   * [Wave a Flag](ctf/picoctf/wave-a-flag.md)
   * [Magikarp Ground Mission](ctf/picoctf/magikarp-ground-mission.md)
 
-## TryHackMe <a href="#TryHackMe" id="TryHackMe"></a>
-
-* [Advent of Cyber 2021](TryHackMe/advent-of-cyber-2021/README.md)
-  * [Save The Gifts](TryHackMe/advent-of-cyber-2021/save-the-gifts.md)
-
-## Secure Coding
-
-* [Secure Code Warrior](secure-coding/secure-code-warrior.md)
-  * [Level 1](secure-coding/secure-code-warrior/level-1/README.md)
-    * [Part 1](secure-coding/secure-code-warrior/level-1/part-1.md)
-    * [Part 2](secure-coding/secure-code-warrior/level-1/part-2.md)
-    * [Part 3](secure-coding/secure-code-warrior/level-1/part-3.md)
-  * [Level 2](secure-coding/secure-code-warrior/level-2/README.md)
-    * [Part 1](secure-coding/secure-code-warrior/level-2/part-1.md)
-    * [Part 2](secure-coding/secure-code-warrior/level-2/part-2.md)
-    * [Part 3](secure-coding/secure-code-warrior/level-2/part-3.md)
-  * [Level 3](secure-coding/secure-code-warrior/level-3/README.md)
-    * [Part 1](secure-coding/secure-code-warrior/level-3/part-1.md)
-    * [Part 2](secure-coding/secure-code-warrior/level-3/part-2.md)
-    * [Part 3](secure-coding/secure-code-warrior/level-3/part-3.md)
-
 ## Splunk
 
 * [Splunk certification](splunk/splunk-certification/README.md)
   * [What is Splunk](splunk/splunk-certification/what-is-splunk.md)
   * [Intro to Splunk](splunk/splunk-certification/intro-to-splunk.md)
   * [Using Fields](splunk/splunk-certification/using-fields.md)
-
-## Personal Project: Anagrams
-
-* [Plan](personal-project-anagrams/plan/README.md)
-  * [What I need to do](personal-project-anagrams/plan/what-i-need-to-do.md)
-  * [App Goals](personal-project-anagrams/plan/app-goals.md)
-* [Journey](personal-project-anagrams/journey/README.md)
-  * [Day 1](personal-project-anagrams/journey/day-1.md)
