@@ -6,7 +6,7 @@ description: Welcome!
 
 ## Links
 
-[https://www.linkedin.com/in/tylerherrman/](https://www.linkedin.com/in/tylerherrman/) |[https://github.com/groovy009](https://github.com/groovy009)&#x20;
+[https://www.linkedin.com/in/tylerherrman/](https://www.linkedin.com/in/tylerherrman/) | [https://github.com/groovy009](https://github.com/groovy009)&#x20;
 
 My name is Tyler Herrman, and this website is used to document my computer science journey!&#x20;
 
