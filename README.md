@@ -12,7 +12,7 @@ My name is Tyler Herrman, and this website is used to document my computer scien
 
 <figure><img src=".gitbook/assets/IMG_3162 (3).PNG" alt=""><figcaption><p>Woah it's me!</p></figcaption></figure>
 
-I am a senior standing CS major at Clemson University who has a passion to create. Whether that be software, music, movies, etc.
+I am a junior CS major at Clemson University who has a passion to create. Whether that be software, music, movies, etc.
 
 ## My short films/movies:
 
