@@ -10,6 +10,7 @@
 * [Journey](personal-project-anagrams/journey/README.md)
   * [Day 1: The first hurdle](personal-project-anagrams/journey/day-1-the-first-hurdle.md)
   * [Day 2: General Design and Starting Class Diagrams](personal-project-anagrams/journey/day-2-general-design-and-starting-class-diagrams.md)
+  * [Day 3: Picking Up the Pace](personal-project-anagrams/journey/day-3-picking-up-the-pace.md)
 
 ## Secure Coding
 
@@ -57,3 +58,9 @@
   * [What is Splunk](splunk/splunk-certification/what-is-splunk.md)
   * [Intro to Splunk](splunk/splunk-certification/intro-to-splunk.md)
   * [Using Fields](splunk/splunk-certification/using-fields.md)
+
+## LeetCode
+
+* [About](leetcode/about.md)
+* [Challenges](leetcode/challenges/README.md)
+  * [Page 1](leetcode/challenges/page-1.md)
