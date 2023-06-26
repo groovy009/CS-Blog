@@ -63,4 +63,6 @@
 
 * [About](leetcode/about.md)
 * [Challenges](leetcode/challenges/README.md)
+  * [Running Sum of 1d Array](leetcode/challenges/running-sum-of-1d-array.md)
+  * [Find Pivot Index](leetcode/challenges/find-pivot-index.md)
   * [Page 1](leetcode/challenges/page-1.md)
