@@ -69,3 +69,5 @@
   * [Is Subsequence](leetcode/challenges/is-subsequence.md)
   * [Merge Two Sorted Lists](leetcode/challenges/merge-two-sorted-lists.md)
   * [Reverse Linked List](leetcode/challenges/reverse-linked-list.md)
+  * [Middle of the Linked List](leetcode/challenges/middle-of-the-linked-list.md)
+  * [Linked List Cycle II](leetcode/challenges/linked-list-cycle-ii.md)
