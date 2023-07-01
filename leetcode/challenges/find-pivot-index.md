@@ -1,6 +1,6 @@
 # Find Pivot Index
 
-## Problem
+## The Problem
 
 Given an array of integers `nums`, calculate the **pivot index** of this array.
 
@@ -43,7 +43,7 @@ public:
 };
 ```
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-26 152047 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-26 152047.png" alt=""><figcaption></figcaption></figure>
 
 ## Rationale
 

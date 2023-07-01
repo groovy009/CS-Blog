@@ -65,4 +65,7 @@
 * [Challenges](leetcode/challenges/README.md)
   * [Running Sum of 1d Array](leetcode/challenges/running-sum-of-1d-array.md)
   * [Find Pivot Index](leetcode/challenges/find-pivot-index.md)
-  * [Page 1](leetcode/challenges/page-1.md)
+  * [Isomorphic Strings](leetcode/challenges/isomorphic-strings.md)
+  * [Is Subsequence](leetcode/challenges/is-subsequence.md)
+  * [Merge Two Sorted Lists](leetcode/challenges/merge-two-sorted-lists.md)
+  * [Reverse Linked List](leetcode/challenges/reverse-linked-list.md)
