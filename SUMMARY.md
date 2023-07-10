@@ -11,6 +11,7 @@
   * [Day 1: The first hurdle](personal-project-anagrams/journey/day-1-the-first-hurdle.md)
   * [Day 2: General Design and Starting Class Diagrams](personal-project-anagrams/journey/day-2-general-design-and-starting-class-diagrams.md)
   * [Day 3: Picking Up the Pace](personal-project-anagrams/journey/day-3-picking-up-the-pace.md)
+  * [Day 4: New Swift Resources](personal-project-anagrams/journey/day-4-new-swift-resources.md)
 
 ## Secure Coding
 
